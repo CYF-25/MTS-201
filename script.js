@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
             type: "mcq", 
             question: "For the function f(x) = 1/(1 + x²), what is the range?", 
             options: [
-                "A) (-∞, ∞)\-1,1", 
+                "A) (-∞,-1)∪(1,∞)", 
                 "B) [0,1]", 
                 "C) (0,1]", 
                 "D) [-1,1]"
